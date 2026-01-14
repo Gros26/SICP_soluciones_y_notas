@@ -1,0 +1,8 @@
+#Backups de editores
+*~
+
+#Archivos temporales
+*.bak
+*.tmp
+
+
