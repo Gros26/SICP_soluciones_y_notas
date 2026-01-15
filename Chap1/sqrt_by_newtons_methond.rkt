@@ -1,6 +1,13 @@
 #lang racket
 ; Square roots by Newton´s method
 
+(provide square
+         average
+         improve
+         good-enough?
+         sqrt-iter
+         sqrt)
+
 (define (square x)
   (* x x))
 
